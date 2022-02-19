@@ -1,5 +1,17 @@
 # Hi there, I'm Jakirul 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/Jakirul/">
+    <img src="https://img.shields.io/badge/Jakirul-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+<a href="mailto:jakirul.islam@live.co.uk?subject=[GitHub]">
+    <img src="https://img.shields.io/badge/-Email%20ME-%231DA1F2.svg?style=for-the-badge&logo=Email&logoColor=white" alt="Twitter" />
+ </a>
+  <a href="https://www.jakirul.com">
+    <img src="https://img.shields.io/badge/-View%20My%20Website-%231DA1F2.svg?style=for-the-badge&logo=Email&logoColor=white" alt="Twitter" />
+ </a>
+</p>
+
 ## I'm a Trainee Full Stack Developer and Recent Computer Science Graduate!
 - 🌱 Currently learning new things....
 - ⚡ Always looking for new opportunities
@@ -21,16 +33,17 @@
 <br> 
 <br>
 
-### How to find me
 
-- [Email Me](mailto:jakirul.islam@live.co.uk?subject=[GitHub])
-- [View my LinkedIn](https://www.linkedin.com/in/jakirul/)
-- [View my Portfolio Site](https://www.jakirul.com)
+## Current Stats
 
-<h2>My stats</h2>
+|   ![Jakirul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jakirul&theme=rogue) |
+| :---: |
 
-[![Jakirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakirul)](https://github.com/Jakirul/github-readme-stats)
+| ![Jakirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakirul&show_icons=true&theme=city_lights) | ![Jakirul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakirul&theme=city-lights) |
+| :---: | :---: |
 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakirul&theme=city_lights) |
+| :---: |
 
 
 
