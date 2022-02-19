@@ -12,7 +12,7 @@
  </a>
 </p>
 
-## I'm a Trainee Full Stack Developer and Recent Computer Science Graduate!
+## I'm a Full Stack Developer and Recent Computer Science Graduate!
 - 🌱 Currently learning new things....
 - ⚡ Always looking for new opportunities
 
