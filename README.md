@@ -29,8 +29,6 @@
 
 <h2>My stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jakirul&show_icons=true&locale=en&layout=compact" alt="Jakirul" /></p>
-
 [![Jakirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakirul)](https://github.com/Jakirul/github-readme-stats)
 
 
