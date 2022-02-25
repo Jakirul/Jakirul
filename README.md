@@ -30,7 +30,7 @@
   <img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  style="padding-right: 30px" />
   <img align="left" width="30px" src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png"  style="padding-right: 30px"  />
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"  style="padding-right: 30px" />
-  <img align="left" width="100px" src="https://user-images.githubusercontent.com/8548957/155737350-7d312829-b3fe-4958-90a1-e3caf82fabb0.png"  style="padding-right: 30px"  />
+  <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png"  style="padding-right: 30px"  />
   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png"  style="padding-right: 30px"  />
 
 </div>
