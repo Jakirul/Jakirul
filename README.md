@@ -25,9 +25,9 @@
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="padding-right: 30px"  />
   <img align="left" width="30px" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="padding-right: 30px"  />
   <img align="left" width="30px" src="https://www.jakirul.com/assets/images/tech-icons/express.png" style="padding-right: 30px"  />
+  <img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  style="padding-right: 30px" />
   <img align="left" width="30px" src="https://www.jakirul.com/assets/images/tech-icons/django.jpg"  style="padding-right: 30px"  />
   <img align="left" width="30px" src="https://www.jakirul.com/assets/images/tech-icons/docker.png"  style="padding-right: 30px"  />
-  <img align="left" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  style="padding-right: 30px" />
   <img align="left" width="30px" src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png"  style="padding-right: 30px"  />
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"  style="padding-right: 30px" />
   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png"  style="padding-right: 30px"  />
