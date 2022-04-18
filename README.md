@@ -41,8 +41,8 @@
 
 ## Current Stats
 
-|   ![Jakirul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jakirul&theme=rogue) |
-| :---: |
+<!-- |   ![Jakirul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jakirul&theme=rogue) |
+| :---: | -->
 
 | ![Jakirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakirul&show_icons=true&theme=city_lights) | ![Jakirul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakirul&theme=city-lights) |
 | :---: | :---: |
